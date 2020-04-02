@@ -25,3 +25,6 @@ pip install Flask \
     Flask-SQLAlchemy \
     Flask-RESTful \
     flask-marshmallow
+    
+    Minimal apache configuration
+    https://www.codementor.io/@abhishake/minimal-apache-configuration-for-deploying-a-flask-app-ubuntu-18-04-phu50a7ft
